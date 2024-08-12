@@ -1,2 +1,2 @@
-# java_refresher
-For personal use
+# Java Refresher
+> **_NOTE:_** For personal use
